@@ -1,0 +1,14 @@
+﻿  Encoding.cpp
+C:\Users\admin\Downloads\18120606_18120621 (1) (1)\18120621_18120606\Source\Basic_Compression\Huffman_Coding\Encoding.cpp(102,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\Downloads\18120606_18120621 (1) (1)\18120621_18120606\Source\Basic_Compression\Huffman_Coding\Encoding.cpp(149,31): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\admin\Downloads\18120606_18120621 (1) (1)\18120621_18120606\Source\Basic_Compression\Huffman_Coding\Encoding.cpp(174,25): warning C4267: 'argument': conversion from 'size_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Generating code
+  3 of 571 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Huffman_Coding.vcxproj -> C:\Users\admin\Downloads\18120606_18120621 (1) (1)\18120621_18120606\Source\Basic_Compression\x64\Release\Huffman_Coding.exe
